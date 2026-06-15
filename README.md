@@ -1,5 +1,7 @@
 # Vindictive's Vault
 
+**Notes:** I have a discord, some things I don't post on github, so if you're interested in more resources, u should join ^_^: [Vault Server](https://discord.gg/jTBGdWbrbe)
+
 A collection of uncopylocked files, models, plugins, and general assets. This is a public vault for educational purposes, that might help developers learn.
 
 ## Purpose
