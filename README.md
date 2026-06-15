@@ -10,8 +10,7 @@ This vault is intended to help Roblox devs do better in making things. All conte
 
 ## Checking for Backdoors
 
-- Look for any Scripts, LocalScripts, or ModuleScripts that seem out of place or have suspicious names.
-- Right-click on scripts and select "Edit" to review the code.
+- Look for any Scripts that have weird names.
 - Search the entire file for any of these (CTRL + SHIFT + F):
    - "require"
    - "HttpService"
@@ -20,7 +19,7 @@ This vault is intended to help Roblox devs do better in making things. All conte
    - long encoded strings
    - Discord Webhooks
 
-Always review content carefully before using it in your own projects.
+Always check your files.
 
 ## Plugin Usage
 
