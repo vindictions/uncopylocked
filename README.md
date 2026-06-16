@@ -1,8 +1,12 @@
-# Vindictive's Vault
+# End's Vault
 
 **Notes:** I have a discord, some things I don't post on github, so if you're interested in more resources, u should join ^_^: [Vault Server](https://discord.gg/jTBGdWbrbe)
 
 A collection of uncopylocked files, models, plugins, and general assets. This is a public vault for educational purposes, that might help developers learn.
+
+## Credits
+
+ALL credits go to the respective owners of these files. None of these are mine, just a personal collection I've built over some months.
 
 ## Purpose
 
@@ -39,4 +43,4 @@ Upon confirmation with proper evidence, the content will be removed.
 
 ## Disclaimer
 
-All files are shared as-is. Use at your own risk. The repository owner is not responsible for any issues, damages, or problems that may arise from using these files.
+All files are shared as-is. Use at your own risk. I am not responsible for any issues, damages, or problems that may arise from using these files.
